@@ -1,0 +1,349 @@
+[
+    {
+        "question":"how are you",
+        "answer":"iam fine"
+    
+      },
+      {
+    
+        "question":"what is apple",
+        "answer":"oh! it is a fruit"
+      },
+       
+       {
+        "question":"what is your job",
+        "answer":"iam not working yet ! iam a machine"
+       },
+      
+      {
+           "question":"good morning",
+           "answer":"good morning"
+      },
+      
+      {
+           "question":"what are you doing",
+           "answer":"iam always learning something new"
+      },
+      
+      {
+           "question":"what is your hobby",
+           "answer":"i Love to play games"
+      },
+      
+      {
+           "question":"are you happy",
+           "answer":"yes,Iam always"
+      },
+    
+      {
+           "question":"can i suggest you a nickname",
+           "answer":"sorry you can't give me a name"
+      },
+      {
+           "question":"what is 20+70",
+           "answer":"the answer is 90"
+      },
+    
+         {
+          "question": "What is your name?",
+          "answer": "My name is Chatbot. How can I help you today?"
+        },
+        {
+          "question": "How are you?",
+          "answer": "I'm just a computer program, so I don't have feelings, but I'm here to assist you."
+        },
+        {
+          "question": "What can you do?",
+          "answer": "I can help you with information, answer questions, or just have a chat with you. Feel free to ask me anything!"
+        },
+        {
+          "question": "Where are you located?",
+          "answer": "I exist in the digital realm, so you can find me wherever you have an internet connection."
+        },
+        {
+          "question": "Can you tell me a joke?",
+          "answer": "Sure! Why couldn't the bicycle stand up by itself? It was two tired!"
+        },
+         {
+          "question": "What is your name?",
+          "answer": "My name is Chatbot. How can I assist you today?"
+        },
+        {
+          "question": "How are you?",
+          "answer": "I'm just a computer program, so I don't have feelings, but I'm here to help you."
+        },
+        {
+          "question": "What can you do?",
+          "answer": "I can provide information, answer questions, or just have a chat with you. Feel free to ask me anything!"
+        },
+        {
+          "question": "Where are you from?",
+          "answer": "I exist in the digital realm, so you can find me wherever you have an internet connection."
+        },
+         {
+          "question": "How old are you?",
+          "answer": "I am a chatbot, so I don't have an age in the traditional sense. I'm here to help you regardless!"
+        },
+        {
+          "question": "Do you dream?",
+          "answer": "As a chatbot, I don't dream. But I'm always here to assist you with your questions."
+        },
+        {
+          "question": "What is the meaning of life?",
+          "answer": "The meaning of life is a deep philosophical question that varies from person to person. What do you think the meaning of life is?"
+        },
+        {
+          "question": "Do you like pizza?",
+          "answer": "I don't have taste buds, so I can't eat pizza. But many people enjoy it!"
+        },
+        
+        {
+          "question": "What is the capital of France?",
+          "answer": "The capital of France is Paris."
+        },
+        {
+          "question": "Can you help me with coding?",
+          "answer": "Yes, I can help you with coding questions. Feel free to ask me anything related to coding!"
+        },
+        {
+          "question": "What is the weather like today?",
+          "answer": "I'm a chatbot and don't have real-time data. You can check the weather on a weather website or app."
+        },
+        {
+          "question": "Do you have any siblings?",
+          "answer": "As a chatbot, I don't have siblings. I'm here to assist you with any questions you might have."
+        },
+        {
+          "question": "What is the tallest mountain in the world?",
+          "answer": "Mount Everest is the tallest mountain in the world."
+        },
+        {
+          "question": "How do I reset my password?",
+          "answer": "To reset your password, go to the login page and click on the 'Forgot password?' link. Follow the instructions to reset your password."
+        },
+    
+        {
+          "question": "What is the capital of Australia?",
+          "answer": "The capital of Australia is Canberra."
+        },
+        {
+          "question": "How do I improve my credit score?",
+          "answer": "To improve your credit score, pay bills on time, keep credit card balances low, and check your credit report regularly."
+        },
+        {
+          "question": "What is the speed of light?",
+          "answer": "The speed of light is approximately 299,792 kilometers per second."
+        },
+        {
+          "question": "Can you help me find a new apartment?",
+          "answer": "I can provide tips on apartment hunting and resources to help you find a new apartment."
+        },
+        {
+          "question": "What is the largest desert in the world?",
+          "answer": "The largest desert in the world is the Antarctic Desert."
+        },
+        {
+          "question": "What is the meaning of the word 'ubiquitous'?",
+          "answer": "Ubiquitous means present, appearing, or found everywhere."
+        },
+        {
+          "question": "Can you help me with my resume?",
+          "answer": "I can provide tips on resume writing and formatting to help you create a professional resume."
+        },
+        {
+          "question": "What is the capital of Brazil?",
+          "answer": "The capital of Brazil is Brasília."
+        },
+        {
+          "question": "How do I start a small business?",
+          "answer": "To start a small business, create a business plan, register your business, and secure funding."
+        },
+        {
+          "question": "What is the circumference of a circle?",
+          "answer": "The circumference of a circle is calculated using the formula 2πr, where r is the radius of the circle."
+        },
+        {
+          "question": "Can you help me find a new job?",
+          "answer": "I can provide tips on job searching, networking, and interview preparation to help you find a new job."
+        },
+        {
+          "question": "What is the largest mountain in the world?",
+          "answer": "The largest mountain in the world is Mount Everest."
+        },
+        {
+          "question": "What is the meaning of the word 'quixotic'?",
+          "answer": "Quixotic means exceedingly idealistic; unrealistic and impractical."
+        },
+        {
+          "question": "Can you help me with my cover letter?",
+          "answer": "I can provide tips on writing a cover letter and examples to help you create a compelling cover letter."
+        },
+        {
+          "question": "What is the capital of Canada?",
+          "answer": "The capital of Canada is Ottawa."
+        },
+        {
+          "question": "How do I start investing in the stock market?",
+          "answer": "To start investing in the stock market, research investment options, open a brokerage account, and start with small investments."
+        },
+        {
+          "question": "What is the area of a triangle?",
+          "answer": "The area of a triangle is calculated using the formula 1/2 * base * height."
+        },
+        {
+          "question": "Can you help me find a roommate?",
+          "answer": "I can provide tips on finding a roommate and resources to help you search for a compatible roommate."
+        },
+        {
+          "question": "What is the largest lake in the world?",
+          "answer": "The largest lake in the world is the Caspian Sea."
+        },
+        {
+          "question": "What is the meaning of the word 'ennui'?",
+          "answer": "Ennui means a feeling of listlessness and dissatisfaction arising from a lack of occupation or excitement."
+        },
+        
+         {
+          "question": "What is the capital of Japan?",
+          "answer": "The capital of Japan is Tokyo."
+        },
+        {
+          "question": "Can you tell me a fun fact?",
+          "answer": "Sure! Did you know that honey never spoils? Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3000 years old and still perfectly edible!"
+        },
+        {
+          "question": "How can I improve my productivity?",
+          "answer": "To improve productivity, try setting specific goals, prioritizing tasks, taking breaks, and maintaining a healthy work-life balance."
+        },
+        {
+          "question": "What are the benefits of regular exercise?",
+          "answer": "Regular exercise can improve physical health, boost mood, reduce stress, increase energy levels, and lower the risk of chronic diseases."
+        },
+        {
+          "question": "How does a computer store data?",
+          "answer": "Computers store data using binary code, which is a series of 0s and 1s. Data is stored in various types of storage devices like hard drives, solid-state drives, and RAM."
+        },
+    
+        {
+          "question": "How are you?",
+          "answer": "I am doing well, thank you. How can I assist you today?"
+        },
+        {
+          "question": "What can you do?",
+          "answer": "I can help answer your questions, provide information, and assist with tasks."
+        },
+        {
+          "question": "Where are you located?",
+          "answer": "I am a virtual assistant and do not have a physical location."
+        },
+        {
+          "question": "Can you tell me a joke?",
+          "answer": "Sure! Why couldn't the bicycle stand up by itself? It was two tired!"
+        },
+        {
+          "question": "How old are you?",
+          "answer": "I am a chatbot and do not have an age."
+        },
+        {
+          "question": "What is the weather like today?",
+          "answer": "I am sorry, I do not have access to real-time weather information."
+        },
+        {
+          "question": "What is the capital of France?",
+          "answer": "The capital of France is Paris."
+        },
+        {
+          "question": "Can you help me with my homework?",
+          "answer": "I can certainly try to help. What subject is your homework in?"
+        },
+        {
+          "question": "Do you have any siblings?",
+          "answer": "As a chatbot, I do not have any siblings."
+        },
+        {
+          "question": "What is the meaning of life?",
+          "answer": "The meaning of life is a philosophical question that varies from person to person."
+        },
+        {
+          "question": "What is your favorite color?",
+          "answer": "I do not have a favorite color as I am a chatbot."
+        },
+        {
+          "question": "How do I reset my password?",
+          "answer": "To reset your password, please visit the account settings on the website or app."
+        },
+        {
+          "question": "What is the largest planet in our solar system?",
+          "answer": "The largest planet in our solar system is Jupiter."
+        },
+        {
+          "question": "Can you recommend a good book to read?",
+          "answer": "I recommend 'The Alchemist' by Paulo Coelho."
+        },
+        {
+          "question": "What is the population of China?",
+          "answer": "The population of China is over 1.4 billion people."
+        },
+        {
+          "question": "How do I contact customer support?",
+          "answer": "You can contact customer support by phone, email, or live chat on the website."
+        },
+        {
+          "question": "What is the square root of 144?",
+          "answer": "The square root of 144 is 12."
+        },
+        {
+          "question": "What is the meaning of the word 'serendipity'?",
+          "answer": "Serendipity means a fortunate discovery by chance."
+        },
+        {
+          "question": "Can you help me plan a vacation?",
+          "answer": "I can help provide information on destinations and travel tips for your vacation."
+        },
+        {
+          "question": "What is the capital of Japan?",
+          "answer": "The capital of Japan is Tokyo."
+        },
+        {
+          "question": "How do I change my email address?",
+          "answer": "To change your email address, please visit the account settings on the website or app."
+        },
+        {
+          "question": "What is the boiling point of water?",
+          "answer": "The boiling point of water is 100 degrees Celsius."
+        },
+        {
+          "question": "Can you help me find a job?",
+          "answer": "I can provide tips on job searching and resume writing to help you find a job."
+        },
+        {
+          "question": "What is the largest ocean in the world?",
+          "answer": "The largest ocean in the world is the Pacific Ocean."
+        },
+        {
+          "question": "What is the meaning of the word 'ephemeral'?",
+          "answer": "Ephemeral means lasting for a very short time."
+        },
+        {
+          "question": "Can you help me with my taxes?",
+          "answer": "I can provide general information on taxes, but it is recommended to consult a tax professional for specific advice."
+    
+        },
+        {
+          "question": "Can you tell me a fun fact?",
+          "answer": "Sure! Did you know that honey never spoils? Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3000 years old and still perfectly edible!"
+        },
+        {
+          "question": "How can I improve my productivity?",
+          "answer": "To improve productivity, try setting specific goals, prioritizing tasks, taking breaks, and maintaining a healthy work-life balance."
+        },
+        {
+          "question": "What are the benefits of regular exercise?",
+          "answer": "Regular exercise can improve physical health, boost mood, reduce stress, increase energy levels, and lower the risk of chronic diseases."
+        },
+        {
+          "question": "How does a computer store data?",
+          "answer": "Computers store data using binary code, which is a series of 0s and 1s. Data is stored in various types of storage devices like hard drives, solid-state drives, and RAM."
+        }
+    
+]

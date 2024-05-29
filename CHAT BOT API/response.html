@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style type="text/css">
+    
+.input{
+
+  width:500px;
+  height:100px;
+  font-size:1.5rem;
+}
+
+.btn{
+  font-size:2rem;
+  background-color: cyan;
+  padding:30px 40px;
+}
+
+.h1{
+  font-size:2rem;
+}
+
+  </style>
+</head>
+<body>
+  <input type="text" class="input">
+  <button class="btn">GetAnswer</button>
+  <h1 class="display"></h1>
+
+
+<script type="text/javascript">
+  
+const input=document.querySelector(".input");
+const btn=document.querySelector(".btn");
+const h1=document.querySelector(".display");
+
+btn.addEventListener("click",async()=>{
+
+
+try{
+
+let api=`http://localhost:2000/chat?question=${input.value}`
+let response=await fetch(api,{method: "POST"});
+let data=await response.json();
+
+h1.innerText=data[0].answer
+
+}catch(error){
+
+h1.innerText="error occured"
+
+}
+
+
+})
+
+
+
+</script>
+
+
+</body>
+</html>
